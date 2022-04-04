@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Johan Mickaël
-- #️⃣ I’m interested in web application programming
-- 🖥️ I’m currently a computer science student
-- ➕ I’m looking for new opportunities on web and mobile development
+👋  Hi folks, I am **Johan Mickaël**.
+
+💡  I’m interested in 💻**Web** and 📱**Mobile development**
 
 <!---
 mjohanr/mjohanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
