@@ -1,13 +1,12 @@
-### Hi folks,  
-# I'm Jo... that doesn't matter..
+### Hi folks, I'm Jo... that doesn't matter..
 
-**But this kitty does!!! Yeahhhh 😺**
+## **But this kitty does!!! Yeahhhh 😺**
 
 ![miaw](https://i.gifer.com/4SHX.gif)
 
 I'm a **Web & Mobile Developer**—by day I code (and sometimes gripe), and by night I strum my guitar.  
 *Trying to make a buck and hoping AI doesn’t steal my job before 60!* 🥹  
-*P.S. I mostly speak French (and Malagasy, why not? 🇲🇬), but I'm learning English from TV shows. Don't judge—I’m a work in progress. France is home for now (but maybe I'll move later... HELP meee!)*
+*P.S. I mostly speak French (and Malagasy, yeah I like to move it move it 🇲🇬), but I'm learning English from TV shows. Don't judge I’m a work in progress. Paris is home for now (but maybe I'll move later... HELP meee!)*
 
 ---
 
@@ -22,7 +21,7 @@ I'm a **Web & Mobile Developer**—by day I code (and sometimes gripe), and by n
 
 ## My Philosophy & Approach
 
-... to keep my code as tidy as my guitar strings (most days 😜)
+"... to keep my code as tidy as my guitar strings (most days 😜)"
 
 - **Tech is just a tool:** It’s all about the vibe, not the language.
 - **SOLID & Clean Code:** My code is like my coffee—strong, clear, and sometimes a hot mess.
