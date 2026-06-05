@@ -49,16 +49,6 @@ My approach in a nutshell:
 
 ---
 
-## 📬 Let's Connect
-
-Got a project, a question, or just want to talk code?
-
-- 📧 [m.johan.rkt@gmail.com](mailto:m.johan.rkt@gmail.com)
-- 💼 [LinkedIn — Johan Mickaël](https://www.linkedin.com/in/johan-mickael/)
-- 🎵 [TikTok — @is.johan_mickael](https://www.tiktok.com/@is.johan_mickael)
-
----
-
 ## 📊 GitHub Stats
  
 <p align="center">
@@ -73,9 +63,15 @@ Got a project, a question, or just want to talk code?
 </p>
 
 ---
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=johan-mickael&theme=tokyonight&hide_border=true" />
-</p>
+
+## 📬 Let's Connect
+
+Got a project, a question, or just want to talk code?
+
+- 📧 [m.johan.rkt@gmail.com](mailto:m.johan.rkt@gmail.com)
+- 💼 [LinkedIn — Johan Mickaël](https://www.linkedin.com/in/johan-mickael/)
+- 🎵 [TikTok — @is.johan_mickael](https://www.tiktok.com/@is.johan_mickael)
+
+---
 
 *Good code. Good music. Good coffee. Not necessarily in that order.*
