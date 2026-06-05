@@ -59,4 +59,23 @@ Got a project, a question, or just want to talk code?
 
 ---
 
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johan-mickael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-mickael&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=johan-mickael&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johan-mickael&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+ 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=johan-mickael&theme=tokyonight&hide_border=true" />
+</p>
+
 *Good code. Good music. Good coffee. Not necessarily in that order.*
