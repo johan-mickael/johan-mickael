@@ -5,21 +5,6 @@ Based in Paris 🇫🇷 with Malagasy roots 🇲🇬.
 
 ---
 
-## 🧭 What I'm About
-
-I build web applications with a focus on **clean architecture**, **maintainability**, and **developer experience**.  
-I care about writing code that makes sense — not just to the machine, but to the next developer who reads it (often future me at 1AM).
-
-My approach in a nutshell:
-- **SOLID principles** - because spaghetti is for dinner, not codebases
-- **Clean Code** - readable, intentional, and refactor-friendly
-- **Keep it simple** - complexity should be earned, not sprinkled
-
----
-
-## 🛠️ Tech Stack
-
-> Heads up: **Symfony & Vue.js** are my daily drivers. The rest ranges from solid experience to "I've shipped things with it."
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80959749" target="_blank" style="display: block" align="center">
   <picture>
@@ -38,6 +23,23 @@ My approach in a nutshell:
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+## 🧭 What I'm About
+
+I build web applications with a focus on **clean architecture**, **maintainability**, and **developer experience**.  
+I care about writing code that makes sense — not just to the machine, but to the next developer who reads it (often future me at 1AM).
+
+My approach in a nutshell:
+- **SOLID principles** - because spaghetti is for dinner, not codebases
+- **Clean Code** - readable, intentional, and refactor-friendly
+- **Keep it simple** - complexity should be earned, not sprinkled
+
+---
+
+## 🛠️ Tech Stack
+
+> Heads up: **Symfony & Vue.js** are my daily drivers. The rest ranges from solid experience to "I've shipped things with it."
+
 ---
 
 ## 📬 Let's Connect
