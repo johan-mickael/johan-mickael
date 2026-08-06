@@ -1,6 +1,6 @@
 # Hey, I'm Johan 👋
 
-**Fullstack Developer** - Symfony & Vue.js enthusiast, clean code advocate, and occasional guitarist.  
+**Fullstack Engineer** - Symfony & Vue.js enthusiast, clean code advocate, and occasional guitarist.  
 Based in Paris 🇫🇷 with Malagasy roots 🇲🇬.
 
 ---
@@ -21,47 +21,23 @@ My approach in a nutshell:
 
 > Heads up: **Symfony & Vue.js** are my daily drivers. The rest ranges from solid experience to "I've shipped things with it."
 
-**Backend**
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80959749" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80959749&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @johan-mickael" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80959749&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<!-- Copy-paste in your Readme.md file -->
 
-**Frontend**
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=80959749&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=80959749&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @johan-mickael" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=80959749&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-**Infra & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🌱 Currently
-
-- Deepening my expertise in **Symfony 7** and **Domain-Driven Design**
-- Exploring clean architecture patterns in real-world projects
-- Preparing for the **Symfony certification**
-
----
-
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johan-mickael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-mickael&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johan-mickael&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johan-mickael&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ---
 
 ## 📬 Let's Connect
